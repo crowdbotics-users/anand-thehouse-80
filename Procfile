@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT anand_thehouse_80.wsgi:application
